@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Utkarshyadav2067
+- 👋 Hi, I’m @Utkarsh Kumar Yadav
 - 👀 I’m interested in Web development (Front End)
 - 🌱 I’m currently learning (Java Script)
 - 💞️ I’m looking to collaborate on any project for develop my skills
