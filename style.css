@@ -1,0 +1,24 @@
+div{
+    background-color: rgba(176, 45, 209, 0.29);
+    border:5px;
+    border-radius: 5px;
+    border-color: blue;
+    color: rgb(32, 26, 218);
+    font-size:x-large;
+    text-align: center;
+    text-decoration:none;}
+    div h1{
+        
+    text-transform: uppercase;
+    text-decoration-line: underline;
+}
+div h2{
+    color: rgb(32, 26, 218);
+    font-size:x-large;
+    text-align: center;
+    text-transform:uppercase;
+    text-decoration:none;
+}
+h5{
+    color:maroon;
+}
